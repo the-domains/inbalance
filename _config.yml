@@ -1,0 +1,27 @@
+typography_spectrum: 0.7532835763413459
+color:
+  brandStrength: 0.8436133395880461
+  lightness: 0.5436891175340861
+  saturation: 0.889110762393102
+  rhythmicContrast: 0.6067300871945918
+  brandColors:
+    - '#73603D'
+    - '#BF8A49'
+    - '#F2CA80'
+    - '#5E5A59'
+    - '#0D0D0D'
+github: true
+layout_spectrum: 0.6041937780100852
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/91d2659b-6a2e-4458-aaf5-23e053c15329.png
+name: inbalance
+navigation:
+  - name: About us
+    id: 1c37a298-b71b-4157-b50d-c323cee49407
+    type: content
+title: In Balance ADR Group LLC
+description: "Human Resources and Conflict Mitigation Solutions\_"
+purpose:
+  - type: contact
+    url: 'tel:877-360-2464'
+    label: Call 877-360-2464
