@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[In Balance ADR Group LLC]]></title>
+        <description><![CDATA[In Balance ADR Group LLC]]></description>
+        <link>https://thegrid.ai/inbalance/</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 25 Jun 2017 02:12:54 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/inbalance/rss.xml" rel="self" type="application/rss+xml"/>
+        <pubDate>Sun, 25 Jun 2017 02:12:50 GMT</pubDate>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Services </p>]]></description>
+            <link>https://thegrid.ai/inbalance/services/index.html</link>
+            <guid isPermaLink="false">fa3659cb-bb42-456a-987c-98e2a8203300</guid>
+            <pubDate>Sun, 25 Jun 2017 02:12:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[inbalance video 1]]></title>
+            <description><![CDATA[<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2F-l25IB1UrBw%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D-l25IB1UrBw&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2F-l25IB1UrBw%2Fhqdefault.jpg&key=b7d04c9b404c499eba89ee7072e1c4f7&type=text%2Fhtml&schema=youtube" width="854" height="480" scrolling="no" frameborder="0" allowfullscreen></iframe>]]></description>
+            <link>https://youtu.be/-l25IB1UrBw</link>
+            <guid isPermaLink="false">b7bf9d0f-5d86-48df-bf95-80bd62f743c7</guid>
+            <pubDate>Wed, 07 Sep 2016 05:53:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Our Story</p>,<p>In Balance ADR Group LLC was funded in 2015 as a Conflict Mitigation agency to compete in the Louisiana Startup Prize. we were the first and still only company to offer conflict mitigation services in North Louisiana. During the competition we realized wee were missing en essential component Human Resources. We made a strategic pivot in scope and team to include human resources solutions. That pivot is the company we are today. <br>Our mantra is Strength Through Balance, Evolution Through Collaboration. This pivot holds true to that mantra.</p>]]></description>
+            <link>https://thegrid.ai/inbalance/our-story/index.html</link>
+            <guid isPermaLink="false">1c37a298-b71b-4157-b50d-c323cee49407</guid>
+            <pubDate>Wed, 07 Sep 2016 05:16:26 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
