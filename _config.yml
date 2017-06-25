@@ -19,12 +19,12 @@ navigation:
   - name: About us
     id: 1c37a298-b71b-4157-b50d-c323cee49407
     type: content
-  - name: Survay
-    url: 'http://survay.io/application/app/31'
-    type: external
   - name: Services
     id: fa3659cb-bb42-456a-987c-98e2a8203300
     type: content
+  - name: Survay
+    url: 'http://survay.io/application/app/31'
+    type: external
 title: In Balance ADR Group LLC
 content: []
 description: "Human Resources and Conflict Mitigation Solutions\_"
