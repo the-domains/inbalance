@@ -1,4 +1,3 @@
-layout_spectrum: 0.021524430095669952
 typography_spectrum: 0.9308456748794987
 color:
   brandStrength: 0.07080143007689553
@@ -12,6 +11,7 @@ color:
     - '#5E5A59'
     - '#0D0D0D'
 github: true
+layout_spectrum: 0.021524430095669952
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/91d2659b-6a2e-4458-aaf5-23e053c15329.png
 name: inbalance
@@ -19,10 +19,13 @@ navigation:
   - name: About us
     id: 1c37a298-b71b-4157-b50d-c323cee49407
     type: content
+  - name: Survay
+    url: 'http://survay.io/application/app/31'
+    type: external
 title: In Balance ADR Group LLC
+content: []
 description: "Human Resources and Conflict Mitigation Solutions\_"
 purpose:
   - type: contact
     url: 'tel:877-360-2464'
     label: Call 877-360-2464
-content: []
