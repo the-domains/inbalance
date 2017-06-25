@@ -13,7 +13,7 @@ color:
 github: true
 layout_spectrum: 0.021524430095669952
 logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/91d2659b-6a2e-4458-aaf5-23e053c15329.png
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/5f81d3b5-0204-4126-b705-f71c0e504c2e.png
 name: inbalance
 navigation:
   - name: About us
@@ -32,3 +32,6 @@ purpose:
   - type: contact
     url: 'tel:877-360-2464'
     label: Call 877-360-2464
+author:
+  name: Bill Dockett
+  email: bill@inbalanceadr.com
