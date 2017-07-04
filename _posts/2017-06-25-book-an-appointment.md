@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: Book an appointment
-dateModified: '2017-07-04T21:29:45.186Z'
-datePublished: '2017-07-04T21:29:45.896Z'
+dateModified: '2017-07-04T21:30:38.148Z'
+datePublished: '2017-07-04T21:30:38.608Z'
 title: ''
 author: []
 publisher: {}
@@ -15,9 +15,7 @@ url: book-an-appointment/index.html
 _type: Article
 
 ---
-<iframe src="http://survay.io/application/appointment/book/44111930276" width="400" height="400" style="border:none;" frameborder="0"></iframe>
-    
-    <script src="http://survay.io/application/assets/custom/js/embedded-survey.js" type="text/javascript"></script><script>var url = "http://survay.io/application";init_appointment(44111930276);</script>
+<script src="http://survay.io/application/assets/custom/js/embedded-survey.js" type="text/javascript"></script><script>var url = "http://survay.io/application";init_appointment(44111930276);</script>
 
 <iframe src="https://the-grid.github.io/ed-userhtml/?g=eJwtjlEOgjAQBa_S7AHcVhqNSLlLgdVuhG5TVg23N4p_b-ZnXse3Ghcyax0DJNXSIq7P-orbgQVjKTOPUVnydwtnXSgrDiIP9N45d2ns8XwC8-ZJUwBvLZhEfE_6h1W3mQIMUieqbZZMVzC_5q4CWOg73G_0H8K8L68" height="244" style=""></iframe>
 
