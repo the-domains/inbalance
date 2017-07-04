@@ -12,6 +12,9 @@ color:
     - '#0D0D0D'
 github: true
 layout_spectrum: 0.021524430095669952
+author:
+  name: Bill Dockett
+  email: bill@inbalanceadr.com
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/5f81d3b5-0204-4126-b705-f71c0e504c2e.png
 name: inbalance
@@ -25,6 +28,9 @@ navigation:
   - name: Survay
     url: 'http://survay.io/application/app/31'
     type: external
+  - name: appointment
+    id: a9696446-bdc9-46be-8636-62b6eb6eba56
+    type: content
 title: In Balance ADR Group LLC
 content: []
 description: "Human Resources and Conflict Mitigation Solutions\_"
@@ -32,6 +38,3 @@ purpose:
   - type: contact
     url: 'tel:877-360-2464'
     label: Call 877-360-2464
-author:
-  name: Bill Dockett
-  email: bill@inbalanceadr.com
