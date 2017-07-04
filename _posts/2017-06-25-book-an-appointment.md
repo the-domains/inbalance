@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: Book an appointment
-dateModified: '2017-06-25T02:54:03.261Z'
-datePublished: '2017-06-25T02:54:03.706Z'
+dateModified: '2017-07-04T21:14:13.546Z'
+datePublished: '2017-07-04T21:14:14.179Z'
 title: ''
 author: []
 publisher: {}
@@ -18,3 +18,9 @@ _type: Article
 Book an appointment
 
 <iframe src="https://the-grid.github.io/ed-userhtml/?g=eJx9jcEOgjAQRH-l6UkPsmDwgBR-xaxlE5dA23QXIn-vBuPR00wmL2-c-MxJjWTf2YdqugLIklfcCo6AKU3sUTkGQBFSAb-IxhlGAZrvNAw0nD48bcUo1uiWqLNKT4URV9zltnewt959c8VsljyZzvw9tS0H1tt7iRx0pqCHc1M3ZdXU1aU-tj_vC8hRR8U" height="244" style=""></iframe>
+
+Purchase Details:  
+-----------------  
+Product: MemberHub Template Club  
+Price: $47.00  
+Payment Id: AP-20A568195C9978521
