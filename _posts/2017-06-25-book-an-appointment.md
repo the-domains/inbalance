@@ -1,11 +1,8 @@
 ---
 inFeed: true
-description: >-
-  <script src="http://survay.io/application/assets/custom/js/embedded-survey.js"
-  type="text/javascript"></script><script>var url =
-  "http://survay.io/application";init_appointment(44111930276);</script>
-dateModified: '2017-07-05T20:03:06.264Z'
-datePublished: '2017-07-05T20:03:06.968Z'
+description: ''
+dateModified: '2017-07-05T20:06:15.512Z'
+datePublished: '2017-07-05T20:06:16.227Z'
 title: ''
 author: []
 publisher: {}
@@ -18,20 +15,4 @@ url: book-an-appointment/index.html
 _type: Article
 
 ---
-<script src="http://survay.io/application/assets/custom/js/embedded-survey.js" type="text/javascript"\></script\><script\>var url = "http://survay.io/application";init\_appointment(44111930276);</script\>
-
-<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJx9jcEKwjAQRH8l5KQHu1aLok37K7KmC25pk5DdFvv3KhWPnmYYHm-c-MxJjWTf2IdqugLIlGdcCo6AKQ3sUTkGQBFSAT-JxhF6ARrv1HXU7T48LUUv1uiSqLFKT4UeZ1zltnWwttZ9c8ZspjyYxvw9tTUH1tt7iRx0pKCbqirL8nLcH86nbf3zvgDHfke7" height="244" style=""></iframe>
-
-    <script src="http://survay.io/application/assets/custom/js/embedded-survey.js" type="text/javascript"></script><script>var url = "http://survay.io/application";init_appointment(44111930276);</script>
-
-    <script src="http://survay.io/application/assets/custom/js/embedded-survey.js" type="text/javascript"></script><script>var url = "http://survay.io/application";init_appointment(44111930276);</script>
-
-<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJwtjlEOgjAQBa_S7AHcVhqNSLlLgdVuhG5TVg23N4p_b-ZnXse3Ghcyax0DJNXSIq7P-orbgQVjKTOPUVnydwtnXSgrDiIP9N45d2ns8XwC8-ZJUwBvLZhEfE_6h1W3mQIMUieqbZZMVzC_5q4CWOg73G_0H8K8L68" height="244" style=""></iframe>
-
-Book an appointment
-
-<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJx9jcEOgjAQRH-l6UkPsmDwgBR-xaxlE5dA23QXIn-vBuPR00wmL2-c-MxJjWTf2YdqugLIklfcCo6AKU3sUTkGQBFSAb-IxhlGAZrvNAw0nD48bcUo1uiWqLNKT4URV9zltnewt959c8VsljyZzvw9tS0H1tt7iRx0pqCHc1M3ZdXU1aU-tj_vC8hRR8U" height="244" style=""></iframe>
-
-<iframe src="http://survay.io/application/appointment/book/44111930276" width="400" height="400" style="border:none;" frameborder="0"\></iframe\>
-
-<script src="http://survay.io/application/assets/custom/js/embedded-survey.js" type="text/javascript"\></script\><script\>var url = "http://survay.io/application";init\_appointment(44111930276);</script\>
+<script src="http://survay.io/application/assets/custom/js/embedded-survey.js" type="text/javascript"></script><script>var url = "http://survay.io/application";init_appointment(44111930276);</script>
